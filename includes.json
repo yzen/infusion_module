@@ -1,0 +1,12 @@
+[
+    "lib/infusion/src/webapp/framework/core/js/jquery.standalone.js",
+    "lib/infusion/src/webapp/framework/core/js/Fluid.js",
+    "lib/infusion/src/webapp/framework/core/js/FluidRequests.js",
+    "lib/infusion/src/webapp/framework/core/js/DataBinding.js",
+    "lib/infusion/src/webapp/framework/core/js/FluidIoC.js",
+    "lib/infusion/src/webapp/framework/core/js/ModelTransformations.js",
+    "lib/infusion/src/webapp/lib/fastXmlPull/js/fastXmlPull.js",
+    "lib/infusion/src/webapp/framework/renderer/js/fluidParser.js",
+    "lib/infusion/src/webapp/framework/renderer/js/fluidRenderer.js",
+    "lib/infusion/src/webapp/framework/renderer/js/RendererUtilities.js"
+]
